@@ -16,8 +16,8 @@ Workout - As a user, I want to be able to view create and track daily workouts. 
 
 # Screenshots
 
-<img src = "Screenshot1.JPG">
-<img src = "Screenshot2.JPG">
+<img src = "Screenshot1.PNG">
+<img src = "Screenshot2.PNG">
 
 # Repo Details 
 https://github.com/baredh821/WorkoutApp
